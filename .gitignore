@@ -1,8 +1,13 @@
 venv/
 __pycache__/
 *.pyc
-*.csv
-data/
 .env
-*.md
 .ipynb_checkpoints/
+
+# Data files (too large for git)
+data/
+
+# Generated outputs
+models/
+submissions/
+*.png
