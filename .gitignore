@@ -11,3 +11,6 @@ data/
 models/
 submissions/
 *.png
+
+# Report
+report/
